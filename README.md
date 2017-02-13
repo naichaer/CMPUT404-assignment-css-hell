@@ -41,5 +41,12 @@ Part 1: Changes to original HTML
    
    For link: mark it with different color after being visited
 
+Images Material
+==================================
+bluebackground: https://www.mylinea.com/gallery/20-4k-colourful-wallpapers/
 
+bluename: http://paper4pc.com/blue-pixels.html#gal_post_1800_blue-pixels-wallpaper-1.jpg
 
+purple: https://www.fabric.com/quilting-fabric-quilt-backing-broadcloth-solid-cotton-broadcloth-fabric.aspx
+
+water: http://www.vertheim.com/water.html
