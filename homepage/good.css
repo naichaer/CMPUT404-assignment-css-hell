@@ -60,6 +60,10 @@ h4{
   color: #ac53ac;
   font-family: verdana;
 }
+p{
+  font-family: verdana;
+  margin-left: 8%;
+}
 ul{
   font-family: verdana;
   margin-left: 4%
