@@ -1,0 +1,63 @@
+pre {
+    font-style: italic;
+    margin-left: 10%;
+    font-family: 'MeriendaOne', Georgia;
+    bold;
+    color: #331a00;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+h1{
+    font-size: 260%;
+    text-align: center;
+    color:#80002a;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2,h3{
+    font-size:160%;
+    text-align:center;
+    color:#663300;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+h4{
+    font-size:100%;
+    text-align:center;
+    color:black;
+    font-family: "Lucida Console", Monaco, monospace;
+    color: #331a00;
+}
+
+p{
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    font-family: verdana;
+    color: #331a00;
+}
+
+table{
+    font-family: verdana;
+    width:50%;
+    margin-left:35%;
+    margin-right:30%;
+}
+
+a:link {
+    color: #b35900;
+}
+
+a:visited {
+    color: #4d2600;
+}
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}

@@ -1,0 +1,31 @@
+.header{
+  background-image: url('images/bluename.jpeg');
+  height: 150%;
+  color: #5c5cd6;
+}
+
+body{
+  text-align: center;
+  background-image:url('images/water.jpg');
+}
+
+.right{
+  font-size: 120%;
+  margin-left: auto;
+  margin-right: auto;
+  color: #5c5cd6;
+  background-color:blue;
+
+}
+
+h1{
+  font-size: 300%;
+  color: blue;
+}
+h2{
+  font-size: 150%;
+  color: 	 #8585e0;
+}
+.photo{
+  width: 10%;
+}
